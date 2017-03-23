@@ -15,6 +15,9 @@
 
 ***
 ## 开源项目
+- [手势解锁](https://github.com/lvming6816077/H5lock)--微信小程序之手势解锁
+- [DoubanBookApp 豆瓣图书](https://github.com/oopsguy/WechatSmallApps)－－高仿豆瓣读书
+- [AppleMusic](https://github.com/Sioxas/AppleMusic)--微信小程序，仿Apple Music
 - [WechatSmallApps](https://github.com/oopsguy/WechatSmallApps)--豆瓣图书
 - [wechat-app-music](https://github.com/eyasliu/wechat-app-music)--微信小程序：音乐播放器
 - [wxapp_ToDo](https://github.com/maczyt/wxapp_ToDo)--微信小程序のToDolist
